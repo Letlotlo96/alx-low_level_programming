@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - Entry point
+ * main - In function
  * Return: Always 0 (Success)
  */
 
@@ -26,7 +26,7 @@ int main(void)
 		putchar(p);
 		putchar(q);
 		if (d == '7' && p == '8')
-		contiue;
+		continue;
 		putchar(',');
 		putchar(' ');
 		}
