@@ -5,7 +5,7 @@
  * @n: the int to check
  * Return: 1 and pints + if n is greater than zero
  * 0 and prints 0 if n is zero
- * -1 and prints - if n is less than zero 
+ * -1 and prints - if n is less than zero
  */
 int prints_sign(int n)
 {
@@ -13,5 +13,5 @@ int prints_sign(int n)
 	{
 		_putchar('+');
 		return (1);
-	} else if (n ==0)
+	} else if (n == 0)
 }
