@@ -1,5 +1,7 @@
 0x13. C - More singly linked lists project
 
+The prototypes to the functions of the tasks are listed in the lists.h file.
+
 Tasks:
 1. 0. Print list (Write a function that prints all the elements of a listint_t list).
 2. 1. List length (Write a function that returns the number of elements in a linked listint_t list).
